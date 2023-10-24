@@ -66,3 +66,24 @@ and for Matlab:
 cd IMRC/IMRC_Matlab
 matlab main.m
 ```
+## Support and Author
+
+Verónica Álvarez
+
+valvarez@bcamath.org
+
+[![ForTheBadge built-with-science](http://ForTheBadge.com/images/badges/built-with-science.svg)](https://github.com/VeronicaAlvarez)
+
+## License 
+
+IMRCs carry a MIT license.
+
+## Citation
+
+If you find useful the code in your research, please include explicit mention of our work in your publication with the following corresponding entry in your bibliography:
+
+<a id="1">[1]</a> 
+V. Alvarez, S. Mazuelas, J.A. Lozano.
+"Minimax forward and backward learning of evolving tasks with performance guarantees." In Advances in Neural Information Processing Systems, 2023.
+
+The corresponding BiBTeX citation is given below:
